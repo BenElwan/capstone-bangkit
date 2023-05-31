@@ -1,1 +1,11 @@
-# capstone-bangkit
+Capstone Bangkit 2023
+==
+Kelompok C23-PR576
+--
+*Anggota Kelompok C23-PR576
+- M121DKY4609
+- M346DKX4077
+- M181DSY1498
+- C163DKX4338
+- C361DSY4829
+- A163DKX4505
