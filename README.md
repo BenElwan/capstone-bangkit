@@ -35,4 +35,4 @@ Anggota Kelompok C23-PR576
 
 Figma
 --
-<h5><a href="https://www.figma.com/file/LTBQFZsCZOLiTfb0xoYa2T/Capstone?type=design&node-id=0-1">Figma Design</a></h5>
+<h5><a href="https://www.figma.com/file/LTBQFZsCZOLiTfb0xoYa2T/Capstone?type=design&node-id=0-1">Figma Early Design</a></h5>
