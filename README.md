@@ -1,3 +1,6 @@
+
+<img width="1280" alt="ToddlerApps" src="https://github.com/BenElwan/capstone-bangkit/assets/90242154/e836b29c-f3c1-4ea9-8e90-83af0e8c1037">
+
 Capstone Bangkit 2023
 ==
 Kelompok C23-PR576
