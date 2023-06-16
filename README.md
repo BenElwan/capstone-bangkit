@@ -26,4 +26,4 @@ Anggota Kelompok C23-PR576
 - C361DSY4829 - Arnesta Husna - Universitas Terbuka
 - A163DKX4505 -  Ilham Ramadhani - Universitas Dian Nuswantoro
 
-<p><h5><a href="https://www.figma.com/file/LTBQFZsCZOLiTfb0xoYa2T/Capstone?type=design&t=0E8M6burbfHHGwep-1"></a></h5></p>
+<p><a href="https://www.figma.com/file/LTBQFZsCZOLiTfb0xoYa2T/Capstone?type=design&t=0E8M6burbfHHGwep-1"></a></p>
