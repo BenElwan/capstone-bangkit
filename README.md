@@ -2,7 +2,8 @@ Welcome to Toddler Eats Page👋
 ==
 <img width="1280" alt="ToddlerApps" src="https://github.com/BenElwan/capstone-bangkit/assets/90242154/e836b29c-f3c1-4ea9-8e90-83af0e8c1037">
 
-1.Homepage
+1. Homepage
+--
 --
 <img width="1280" alt="homepage" src="https://github.com/BenElwan/capstone-bangkit/assets/90242154/0c5e97c4-5a0e-42eb-97a1-2c69a3404666">
 
