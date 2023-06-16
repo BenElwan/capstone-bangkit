@@ -3,10 +3,13 @@ Welcome to Toddler Eats Page👋
 <img width="1280" alt="ToddlerApps" src="https://github.com/BenElwan/capstone-bangkit/assets/90242154/e836b29c-f3c1-4ea9-8e90-83af0e8c1037">
 <p>Toddler Eats is an application that provides recommendations on the nutritional condition of children (stunting), where the food is given in consideration of the weight, age, and number of meals of toddlers.</p>
 
-
 1. Homepage
 ---- --
 <img width="1280" alt="homepage" src="https://github.com/BenElwan/capstone-bangkit/assets/90242154/0c5e97c4-5a0e-42eb-97a1-2c69a3404666">
+
+2. Recomendation Page
+---- --
+<img width="1280" alt="RecPage" src="https://github.com/BenElwan/capstone-bangkit/assets/90242154/5a115549-db5b-4370-9f77-a20d4b48ff5f">
 
 Capstone Bangkit 2023
 ==
