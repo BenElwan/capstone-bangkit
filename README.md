@@ -10,5 +10,3 @@ Anggota Kelompok C23-PR576
 - C163DKX4338 - Benedictus Ariel Widyawan – Universitas Dian Nuswantoro 
 - C361DSY4829 - Arnesta Husna - Universitas Terbuka
 - A163DKX4505 -  Ilham Ramadhani - Universitas Dian Nuswantoro
-
-Figma Design : <p><a href="https://www.figma.com/file/LTBQFZsCZOLiTfb0xoYa2T/Capstone?type=design&node-id=0%3A1&t=2SzsN9etcPyAWVtH-1"><img src="https://i.pinimg.com/originals/17/06/c9/1706c9f16bd08eb5e03f1df3e0a94a1c.png"/></a></p>
