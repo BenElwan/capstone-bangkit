@@ -13,6 +13,7 @@ Welcome to Toddler Eats Page👋
 <img width="1280" alt="Group 5" src="https://github.com/BenElwan/capstone-bangkit/assets/90242154/2f850921-ce32-4efa-959b-d4aebb0fd59c">
 
 <p><a href="https://www.figma.com/file/LTBQFZsCZOLiTfb0xoYa2T/Capstone?type=design&t=0E8M6burbfHHGwep-1">Figma Design</a></p>
+
 Capstone Bangkit 2023
 ==
 Kelompok C23-PR576
