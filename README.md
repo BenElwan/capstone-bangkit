@@ -12,6 +12,20 @@ Welcome to Toddler Eats Page👋
 <h5>3. Recipe Detail</h5>
 <img width="1280" alt="Group 5" src="https://github.com/BenElwan/capstone-bangkit/assets/90242154/2f850921-ce32-4efa-959b-d4aebb0fd59c">
 
+# Mobile Development
+
+<h5>Feature</h5>
+The current feature of this app is to provide food recommendations for toddlers based on weight, age, and meal portion inputs.
+
+<h5>Libraries</h5>
+- CardView
+- RecyclerView
+- Adapter
+- Glide
+
+<h5>Figma</h5>
+<h5><a href="https://www.figma.com/file/LTBQFZsCZOLiTfb0xoYa2T/Capstone?type=design&node-id=0-1">Figma Design</a></h5>
+
 
 Capstone Bangkit 2023
 ==
@@ -25,5 +39,3 @@ Anggota Kelompok C23-PR576
 - C163DKX4338 - Benedictus Ariel Widyawan – Universitas Dian Nuswantoro 
 - C361DSY4829 - Arnesta Husna - Universitas Terbuka
 - A163DKX4505 -  Ilham Ramadhani - Universitas Dian Nuswantoro
-
-Figma : <a href="https://www.figma.com/file/LTBQFZsCZOLiTfb0xoYa2T/Capstone?type=design&t=0E8M6burbfHHGwep-1">Figma Design</a>
