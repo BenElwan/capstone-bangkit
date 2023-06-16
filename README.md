@@ -1,6 +1,7 @@
 Welcome to Toddler Eats Page👋
 ==
 <img width="1280" alt="ToddlerApps" src="https://github.com/BenElwan/capstone-bangkit/assets/90242154/e836b29c-f3c1-4ea9-8e90-83af0e8c1037">
+Toddler Eats is an application that provides recommendations on the nutritional condition of children (stunting), where the food is given in consideration of the weight, age, and number of meals of toddlers.
 
 1. Homepage
 ---- --
