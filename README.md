@@ -15,19 +15,19 @@ Welcome to Toddler Eats Page👋
 # Mobile Development
 
 Feature
-==
+--
 
 The current feature of this app is to provide food recommendations for toddlers based on weight, age, and meal portion inputs.
 
 Libraries
-==
+--
 - CardView
 - RecyclerView
 - Adapter
 - Glide
 
 Figma
-==
+--
 <h5><a href="https://www.figma.com/file/LTBQFZsCZOLiTfb0xoYa2T/Capstone?type=design&node-id=0-1">Figma Design</a></h5>
 
 
