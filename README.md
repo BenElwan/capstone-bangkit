@@ -9,7 +9,8 @@ Welcome to Toddler Eats Page👋
 <h5>2. Recomendation</h5>
 <img width="1280" alt="Group 4" src="https://github.com/BenElwan/capstone-bangkit/assets/90242154/a3d75d05-9af8-40c0-96c5-215d1d9db227">
 
-<h5>3. Detail Recipe</h5>
+<h5>3. Recipe Detail</h5>
+<img width="1280" alt="Group 5" src="https://github.com/BenElwan/capstone-bangkit/assets/90242154/2f850921-ce32-4efa-959b-d4aebb0fd59c">
 
 
 Capstone Bangkit 2023
