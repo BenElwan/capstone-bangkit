@@ -7,7 +7,7 @@ Welcome to Toddler Eats Page👋
 <img width="1280" alt="homepage" src="https://github.com/BenElwan/capstone-bangkit/assets/90242154/0c5e97c4-5a0e-42eb-97a1-2c69a3404666">
 
 <h5>2. Recomendation</h5>
-<img width="1280" alt="RecPage" src="https://github.com/BenElwan/capstone-bangkit/assets/90242154/5a115549-db5b-4370-9f77-a20d4b48ff5f">
+<img width="1280" alt="Group 4" src="https://github.com/BenElwan/capstone-bangkit/assets/90242154/a3d75d05-9af8-40c0-96c5-215d1d9db227">
 
 <h5>3. Detail Recipe</h5>
 
