@@ -9,8 +9,8 @@ Toddler Eats is a simple mobile app that aims to provide healthy food recommenda
 
 # Project Background
 
-A baby's development and growth is not solely reliant on breastfeeding, but also on complementary foods. Complementary feeding becomes crucial when the baby's iron requirements spike at the age of six months. Breast milk only provides roughly 70% of the infant's nutritional needs, and its ability to meet these needs diminishes as the child grows older, until the age of one year.
-     Providing complementary food requires attention to the correct amount, composition, and timing. Inadequate feeding practices can result in malnutrition and hampered growth and development, including undernutrition, malnutrition, and stunting. Complementary feeding should be initiated when the baby is six months old. Other indications of readiness for solid foods include the ability to sit up unassisted, showing interest in food, and opening their mouth when offered food.
+<p>A baby's development and growth is not solely reliant on breastfeeding, but also on complementary foods. Complementary feeding becomes crucial when the baby's iron requirements spike at the age of six months. Breast milk only provides roughly 70% of the infant's nutritional needs, and its ability to meet these needs diminishes as the child grows older, until the age of one year.</p>
+     <p>Providing complementary food requires attention to the correct amount, composition, and timing. Inadequate feeding practices can result in malnutrition and hampered growth and development, including undernutrition, malnutrition, and stunting. Complementary feeding should be initiated when the baby is six months old. Other indications of readiness for solid foods include the ability to sit up unassisted, showing interest in food, and opening their mouth when offered food.</p>
 
 <p><h5>1. Homepage</h5></p>
 <img width="1280" alt="homepage" src="https://github.com/BenElwan/capstone-bangkit/assets/90242154/0c5e97c4-5a0e-42eb-97a1-2c69a3404666">
