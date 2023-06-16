@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Toodler Eats</string>
+    <string name="title">Toddler Eats</string>
+    <string name="input_title">Masukkan Data Berikut:</string>
+    <string name="bb">Berat Badan</string>
+    <string name="hint_bb">Contoh : 6.4</string>
+    <string name="usia">Usia *Mulai dari 6 bulan ke atas</string>
+    <string name="hint_usia">Contoh : 6</string>
+    <string name="rekomen">Rekomendasi</string>
+    <string name="hint_imunisasi">Masukkan Statu Imunisasi...</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="lorem_ipsum">"Nilai Gizi (per porsi):\n"
+                    "Energi: 123.5 kilo kalori\n"
+                    "Protein: 5 kilo kalori\n"
+                    "Lemak: 2.3 kilo kalori\n"
+                    "Karbohidrat: 22 kilo kalori"</string>
+    <string name="tidak_ada">Rekomendasi Menu Tidak Ditemukan!</string>
+    <string name="muat_ulang">Muat Ulang</string>
+    <string name="resep">Resep MPASI</string>
+    <string name="sub_title">Msukkan data untuk mendapatkan rekomendasi!</string>
+    <string name="porsi">Porsi Makan dalam 1 Hari</string>
+    <string name="cari">Cari</string>
+    <string-array name="porsi">
+        <item>2 kali makanan utama</item>
+        <item>3 kali makanan utama</item>
+        <item>3 kali makanan utama dan 1 kali makanan snack</item>
+        <item>3 kali makanan utama dan 2 kali makanan snack</item>
+    </string-array>
+</resources>
